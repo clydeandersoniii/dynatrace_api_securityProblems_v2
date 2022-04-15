@@ -11,4 +11,4 @@ venv.bak/
 __pycache__/
 
 #output files
-problems.json
+*.json
